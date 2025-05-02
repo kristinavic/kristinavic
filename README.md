@@ -1,41 +1,70 @@
-<h1 align="center"> Hi! I'm Kristina 👋 </h1>
+# 👋 Hi, I'm Kristina!
 
-  <p align="left"> Currently focused on changing my career path to software development 💻 <br>
-    In any free moment left I'm either coding or finding other ways to occupy my restless brain with riddles of any kind 🧠</p>
+I'm a healthcare administrator at a leading rehabilitation center, actively transitioning into the tech industry. My background in operations and problem-solving has fueled a passion for software development, and I'm currently building a strong foundation in both frontend and backend technologies.
 
-<p><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif" width="400">
-  </p><br/></p>
+<br>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif"> </p>
+<br>
 
-<h2>🛠️ Languages and Tools:</h2>
+## 💻 What I'm Working On
 
-<p><p> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  </p> <br/></p>
+- Building web applications that enhance user experience and solve everyday problems  
+- Deepening my knowledge of **JavaScript**, **HTML**, and **CSS** to strengthen my front-end development skills  
+- Applying my existing experience with **C#, .NET and Python** through personal projects and backend development  
+- Continuously improving my problem-solving abilities through hands-on challenges and automation tasks  
+<br>
 
-<h2>💻 My projects:</h2>
+## 🧠 Projects
 
-<ul>
-<li><a href="https://github.com/kristinavic/MojaKnjiznica">Digital bookshelf</a> </li>
-<li><a href="https://github.com/kristinavic/Izposoja">Personal library</a><br />
-<br/></li>
-</ul>
+Here are a few projects I'm currently working on:
 
-<h2>🔥My statistics</h2>
+- **📚 Digital Bookshelf** – A personal library tracker with a simple UI  
+- **📖 Personal Library** – Manage and review book collections with custom filters  
+- _More coming soon – stay tuned!_
+<br>
 
-<p><a href="https://github.com/kristinavic/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic" alt="Top Langs" /></a>
-<br/></p>
+## 🛠️ Tech Stack
 
-<h2>🏖️ My hobbies</h2>
+Languages & Tools I’m currently using and learning:
 
-<p>Always searching for that something that brings a smile on my face, most often I found it in: <br/>
-  - Traveling &amp; new places ✈️ <br/>
-  - Music 🎵 <br/>
-  - Books 📚 <br/>
-  - Coding &amp; other riddles 🧠 <br/>
-  <br/></p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)
+<br>
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic&layout=compact)
+<br>
+
+## 🌱 Currently Learning
+
+- Building responsive UIs with **HTML**, **CSS**, and **JavaScript**  
+- Developing backend logic with **C#**, **.NET**, and **Node.js**  
+- Version control using **Git** and **GitHub**, with **VS Code** for development  
+- Working with **RESTful APIs** and improving my understanding of **databases**  
+- Focusing on clean code, **testing**, and best development practices  
+<br>
+
+
+## ✨ A Bit More About Me
+
+Outside of code, I love:
+- ✈️ Exploring new places  
+- 🎵 Listening to and discovering music  
+- 📚 Reading books (especially nonfiction and sci-fi)  
+- 🧩 Tackling riddles and brain teasers  
+<br>
+
+---
+
+📫 **Let's Connect**  
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/kristinavicic)!
