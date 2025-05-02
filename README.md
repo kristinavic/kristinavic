@@ -1,12 +1,17 @@
-# 👋 Hi, I'm [Your Name]
+
+# 👋 Hi, I'm Kristina!
 
 I'm a healthcare administrator at a leading rehabilitation center, actively transitioning into the tech industry. My background in operations and problem-solving has fueled a passion for software development, and I'm currently building a strong foundation in both frontend and backend technologies.
+<br>
 
 ## 💻 What I'm Working On
 
 - Building web apps to improve user experience with **JavaScript**, **HTML**, and **CSS**  
 - Leveraging my experience with **C#** and **.NET** for backend development  
-- Continuously enhancing problem-solving skills through hands-on coding challenges  
+- Continuously enhancing problem-solving skills through hands-on coding challenges
+
+![Your GIF or Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif)
+
 <br>
 
 ## 🌱 Currently Learning
@@ -43,7 +48,6 @@ _More coming soon – stay tuned!_
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
 
 ### Backend
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff) 
 ![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
@@ -58,6 +62,7 @@ _More coming soon – stay tuned!_
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
 
 ### Programming Languages
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 <br>
 
@@ -68,10 +73,13 @@ _More coming soon – stay tuned!_
 - Analytical thinker with a proactive approach to solving complex problems  
 - Comfortable working independently and collaboratively in fast-paced environments  
 - Adaptable and committed to continuous learning and improvement  
+<br>
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic&layout=compact)
+<br>
+
 
 ## ✨ A Bit More About Me
 
@@ -80,8 +88,9 @@ Outside of code, I love:
 - 🎵 Listening to and discovering music  
 - 📚 Reading books (especially nonfiction and sci-fi)  
 - 🧩 Tackling riddles and brain teasers  
+<br>
 
 ---
 
 📫 **Let's Connect**  
-Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedin)!
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/kristinavicic)!
