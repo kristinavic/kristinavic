@@ -24,7 +24,7 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 <br>
 
 
-## 🧠 Projects
+## 🌐 Featured Projects
 
 ### 🖥️ Web Apps
 - **📖 [The Book Borrower](https://github.com/kristinavic/The-book-borrower)** – A web app built with **ASP.NET Web Forms**, **C#**, **HTML**, **CSS**, and **JavaScript**. Designed as a small-scale library system for friends to share books, it features a public book database and a private exchange system for registered users. The backend uses **SQL** databases.  
@@ -39,31 +39,24 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 _More coming soon – stay tuned!_
 <br>
 
-## 🛠️ Tech Stack
+## 💻 Tech Skills & Expertise
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
 
-### Backend
-![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-
+### Backend Development
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)  ![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
 ### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
 
-### Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff) 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
+### Tools & Version Control
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
+<br>
 
-### Programming Languages
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+
+## 🚀 Currently Learning and Improving
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
 <br>
 
 
