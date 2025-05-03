@@ -10,8 +10,9 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 - Leveraging my experience with **C#** and **.NET** for backend development  
 - Continuously enhancing problem-solving skills through hands-on coding challenges
 
-![Your GIF or Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif)
-
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif" alt="Riddles-gif")
+</p>
 <br>
 
 ## 🌱 Currently Learning
