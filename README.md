@@ -58,7 +58,7 @@ _More coming soon – stay tuned!_
 
 ## 🚀 Currently Learning and Improving
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
+[![Currently working on: Git, Github, JS, Node](https://skillicons.dev/icons?i=git,github,js,node&theme=light)](https://skillicons.dev)  
 <br>
 
 
