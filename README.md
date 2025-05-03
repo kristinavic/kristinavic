@@ -49,19 +49,7 @@ _More coming soon – stay tuned!_
 
 ## 💻 Tech Skills & Expertise
 
-### Frontend Development
-&nbsp;&nbsp;&nbsp;&nbsp;[![Frontend Skills: HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
-### Backend Development
-&nbsp;&nbsp;&nbsp;&nbsp;[![Backend Skills: C#, ASP.NET, Node](https://skillicons.dev/icons?i=cs,dotnet,node&theme=light)](https://skillicons.dev) 
-
-### Databases
-&nbsp;&nbsp;&nbsp;&nbsp;[![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
-
-### Tools & Version Control
-&nbsp;&nbsp;&nbsp;&nbsp;[![Tools: Git, Github, VS Code, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) 
-<br><br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;[![Tech Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,cs,dotnet,git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) [![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
 
 
 ## 🚀 Currently Learning and Improving
