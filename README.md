@@ -1,41 +1,86 @@
-<h1 align="center"> Hi! I'm Kristina 👋 </h1>
 
-  <p align="left"> Currently focused on changing my career path to software development 💻 <br>
-    In any free moment left I'm either coding or finding other ways to occupy my restless brain with riddles of any kind 🧠</p>
+# 👋 Hi, I'm Kristina!
 
-<p><p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif" width="400">
-  </p><br/></p>
+I'm a healthcare administrator at a leading rehabilitation center, actively transitioning into the tech industry. My background in operations and problem-solving has fueled a passion for software development, and I'm currently building a strong foundation in both frontend and backend technologies.
+<br><br>
 
-<h2>🛠️ Languages and Tools:</h2>
 
-<p><p> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  </p> <br/></p>
+## 💻 What I'm Working On
 
-<h2>💻 My projects:</h2>
+- Building web apps to improve user experience with **JavaScript**, **HTML**, and **CSS**  
+- Leveraging my experience with **C#** and **.NET** for backend development  
+- Continuously enhancing problem-solving skills through hands-on coding challenges
 
-<ul>
-<li><a href="https://github.com/kristinavic/MojaKnjiznica">Digital bookshelf</a> </li>
-<li><a href="https://github.com/kristinavic/Izposoja">Personal library</a><br />
-<br/></li>
-</ul>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif" alt="Riddles-gif")
+</p>
+<br><br>
 
-<h2>🔥My statistics</h2>
 
-<p><a href="https://github.com/kristinavic/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic" alt="Top Langs" /></a>
-<br/></p>
+## 🌱 Currently Learning
 
-<h2>🏖️ My hobbies</h2>
+- Building responsive UIs with **HTML**, **CSS**, and **JavaScript**  
+- Developing backend logic with **C#**, **.NET**, and **Node.js**  
+- Version control using **Git** and **GitHub**, with **VS Code** for development  
+- Improving my understanding of **databases**  
+- Focusing on clean code, **testing**, and best development practices  
+<br><br>
 
-<p>Always searching for that something that brings a smile on my face, most often I found it in: <br/>
-  - Traveling &amp; new places ✈️ <br/>
-  - Music 🎵 <br/>
-  - Books 📚 <br/>
-  - Coding &amp; other riddles 🧠 <br/>
-  <br/></p>
+## 🌐 Featured Projects
+
+### Web Apps
+&nbsp;&nbsp;&nbsp;&nbsp;- **[The Book Borrower](https://github.com/kristinavic/The-book-borrower) 📖** – A web app designed as a small-scale library system for friends to share books, it features a public book database and a private exchange system for registered users. 
+
+  
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Company Homepage Layout](https://github.com/kristinavic/Groover-and-threads) 🖥️** – A responsive web page built from scratch to simulate a company homepage. Developed as part of a front-end practice exercise.  
+
+
+### Windows Apps
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Digital Bookshelf](https://github.com/kristinavic/MojaKnjiznica) 📚** – A Windows app meant for one user, user can browse, add, edit, and delete books from his personal collection.
+
+
+### Console Projects
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Credit Card Checker](https://github.com/kristinavic/Credit-card-checker) 💳** – A console tool which validates credit card numbers, identifies invalid entries, and determines the issuing companies using loops and functions.
+
+_More coming soon – stay tuned!_
+<br><br>
+
+
+
+## 💻 Tech Skills & Expertise
+
+&nbsp;&nbsp;&nbsp;&nbsp;[![Tech Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,cs,dotnet,git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) [![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
+
+
+## 🚀 Currently Learning and Improving
+&nbsp;&nbsp;&nbsp;&nbsp;[![Currently working on: Git, Github, JS, Node](https://skillicons.dev/icons?i=git,github,js,node&theme=light)](https://skillicons.dev)  
+<br><br>
+
+
+## 🤝 Soft Skills & Strengths
+
+- Strong communicator with experience coordinating cross-functional teams  
+- Analytical thinker with a proactive approach to solving complex problems  
+- Comfortable working independently and collaboratively in fast-paced environments  
+- Adaptable and committed to continuous learning and improvement  
+<br><br>
+
+
+## 📈 GitHub Stats
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic&layout=compact)
+<br><br>
+
+## ✨ A Bit More About Me
+
+Outside of code, I love:
+- ✈️ Exploring new places  
+- 🎵 Listening to and discovering music  
+- 📚 Reading books (especially nonfiction and sci-fi)  
+- 🧩 Tackling riddles and brain teasers  
+<br><br>
+
+---
+
+📫 **Let's Connect**  
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/kristinavicic)!
