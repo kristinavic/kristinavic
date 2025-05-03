@@ -43,15 +43,16 @@ _More coming soon – stay tuned!_
 ## 💻 Tech Skills & Expertise
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+[![Frontend Skills: HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 ### Backend Development
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)  ![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+[![Backend Skills: C#, ASP.NET, Node](https://skillicons.dev/icons?i=cs,dotnet,node&theme=light)](https://skillicons.dev) 
+
 ### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
+[![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
 
 ### Tools & Version Control
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) 
+[![Tools: Git, Github, VS Code, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) 
 <br>
 
 
