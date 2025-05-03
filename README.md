@@ -2,7 +2,8 @@
 # 👋 Hi, I'm Kristina!
 
 I'm a healthcare administrator at a leading rehabilitation center, actively transitioning into the tech industry. My background in operations and problem-solving has fueled a passion for software development, and I'm currently building a strong foundation in both frontend and backend technologies.
-<br>
+<br><br>
+
 
 ## 💻 What I'm Working On
 
@@ -13,7 +14,8 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV6YWU4OGtlNzFvZmRhaTJxazVhM3hzMG44OTl0ZXc1a2o2b3JlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xMBfFshcxJ0Q/giphy.gif" alt="Riddles-gif")
 </p>
-<br>
+<br><br>
+
 
 ## 🌱 Currently Learning
 
@@ -22,8 +24,7 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 - Version control using **Git** and **GitHub**, with **VS Code** for development  
 - Improving my understanding of **databases**  
 - Focusing on clean code, **testing**, and best development practices  
-<br>
-
+<br><br>
 
 ## 🌐 Featured Projects
 
@@ -42,7 +43,8 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 &nbsp;&nbsp;&nbsp;&nbsp;- **[Credit Card Checker](https://github.com/kristinavic/Credit-card-checker) 💳** – A console tool which validates credit card numbers, identifies invalid entries, and determines the issuing companies using loops and functions.
 
 _More coming soon – stay tuned!_
-<br>
+<br><br>
+
 
 
 ## 💻 Tech Skills & Expertise
@@ -58,12 +60,13 @@ _More coming soon – stay tuned!_
 
 ### Tools & Version Control
 &nbsp;&nbsp;&nbsp;&nbsp;[![Tools: Git, Github, VS Code, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) 
-<br>
+<br><br>
+
 
 
 ## 🚀 Currently Learning and Improving
 &nbsp;&nbsp;&nbsp;&nbsp;[![Currently working on: Git, Github, JS, Node](https://skillicons.dev/icons?i=git,github,js,node&theme=light)](https://skillicons.dev)  
-<br>
+<br><br>
 
 
 ## 🤝 Soft Skills & Strengths
@@ -72,13 +75,13 @@ _More coming soon – stay tuned!_
 - Analytical thinker with a proactive approach to solving complex problems  
 - Comfortable working independently and collaboratively in fast-paced environments  
 - Adaptable and committed to continuous learning and improvement  
-<br>
+<br><br>
+
 
 ## 📈 GitHub Stats
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinavic&layout=compact)
-<br>
-
+<br><br>
 
 ## ✨ A Bit More About Me
 
@@ -87,7 +90,7 @@ Outside of code, I love:
 - 🎵 Listening to and discovering music  
 - 📚 Reading books (especially nonfiction and sci-fi)  
 - 🧩 Tackling riddles and brain teasers  
-<br>
+<br><br>
 
 ---
 
