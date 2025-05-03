@@ -27,38 +27,42 @@ I'm a healthcare administrator at a leading rehabilitation center, actively tran
 
 ## 🌐 Featured Projects
 
-### 🖥️ Web Apps
-- **📖 [The Book Borrower](https://github.com/kristinavic/The-book-borrower)** – A web app built with **ASP.NET Web Forms**, **C#**, **HTML**, **CSS**, and **JavaScript**. Designed as a small-scale library system for friends to share books, it features a public book database and a private exchange system for registered users. The backend uses **SQL** databases.  
-- **🖥️ [Company Homepage Layout](https://github.com/kristinavic/Groover-and-threads)** – A responsive web page built from scratch to simulate a company homepage. Created using **HTML**, **CSS**, and **Flexbox** for layout and responsiveness. Developed in **VS Code** as part of a front-end practice exercise.  
+### Web Apps
+&nbsp;&nbsp;&nbsp;&nbsp;- **[The Book Borrower](https://github.com/kristinavic/The-book-borrower) 📖** – A web app designed as a small-scale library system for friends to share books, it features a public book database and a private exchange system for registered users. 
 
-### 💻 Windows Apps
-- **📚 [Digital Bookshelf](https://github.com/kristinavic/MojaKnjiznica)** – A Windows app built with **ASP.NET Web Forms** and **C#**, connected to a **SQLite** database. It allows users to browse, add, edit, and delete books in a personal collection.
+  
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Company Homepage Layout](https://github.com/kristinavic/Groover-and-threads) 🖥️** – A responsive web page built from scratch to simulate a company homepage. Developed as part of a front-end practice exercise.  
 
-### 🖥️ Console Projects
-- **💳 [Credit Card Checker](https://github.com/kristinavic/Credit-card-checker)** – A pure **JavaScript** logic project designed to run in the console. It validates credit card numbers, identifies invalid entries, and determines the issuing companies using loops and functions.
+
+### Windows Apps
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Digital Bookshelf](https://github.com/kristinavic/MojaKnjiznica) 📚** – A Windows app meant for one user, user can browse, add, edit, and delete books from his personal collection.
+
+
+### Console Projects
+&nbsp;&nbsp;&nbsp;&nbsp;- **[Credit Card Checker](https://github.com/kristinavic/Credit-card-checker) 💳** – A console tool which validates credit card numbers, identifies invalid entries, and determines the issuing companies using loops and functions.
 
 _More coming soon – stay tuned!_
 <br>
 
+
 ## 💻 Tech Skills & Expertise
 
 ### Frontend Development
-[![Frontend Skills: HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Frontend Skills: HTML, CSS, JS, Bootstrap](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 ### Backend Development
-[![Backend Skills: C#, ASP.NET, Node](https://skillicons.dev/icons?i=cs,dotnet,node&theme=light)](https://skillicons.dev) 
+&nbsp;&nbsp;&nbsp;&nbsp;[![Backend Skills: C#, ASP.NET, Node](https://skillicons.dev/icons?i=cs,dotnet,node&theme=light)](https://skillicons.dev) 
 
 ### Databases
-[![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
+&nbsp;&nbsp;&nbsp;&nbsp;[![Databases: SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff) 
 
 ### Tools & Version Control
-[![Tools: Git, Github, VS Code, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) 
+&nbsp;&nbsp;&nbsp;&nbsp;[![Tools: Git, Github, VS Code, Visual Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light)](https://skillicons.dev) 
 <br>
 
 
 ## 🚀 Currently Learning and Improving
-
-[![Currently working on: Git, Github, JS, Node](https://skillicons.dev/icons?i=git,github,js,node&theme=light)](https://skillicons.dev)  
+&nbsp;&nbsp;&nbsp;&nbsp;[![Currently working on: Git, Github, JS, Node](https://skillicons.dev/icons?i=git,github,js,node&theme=light)](https://skillicons.dev)  
 <br>
 
 
